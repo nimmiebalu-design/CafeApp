@@ -1,0 +1,17 @@
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\bin\Debug\net8.0\CafeApp.Infrastructure.deps.json
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\bin\Debug\net8.0\CafeApp.Infrastructure.runtimeconfig.json
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\bin\Debug\net8.0\CafeApp.Infrastructure.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\bin\Debug\net8.0\CafeApp.Infrastructure.pdb
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\bin\Debug\net8.0\CafeApp.Core.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\bin\Debug\net8.0\CafeApp.Core.pdb
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.AssemblyInfo.cs
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp..CAF26C90.Up2Date
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\refint\CafeApp.Infrastructure.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.pdb
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\CafeApp.Infrastructure.genruntimeconfig.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Infrastructure\obj\Debug\net8.0\ref\CafeApp.Infrastructure.dll

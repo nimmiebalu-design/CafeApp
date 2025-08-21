@@ -1,0 +1,15 @@
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\bin\Debug\net8.0\CafeApp.Application.deps.json
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\bin\Debug\net8.0\CafeApp.Application.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\bin\Debug\net8.0\CafeApp.Application.pdb
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\bin\Debug\net8.0\CafeApp.Core.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\bin\Debug\net8.0\CafeApp.Core.pdb
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.csproj.AssemblyReference.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.AssemblyInfoInputs.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.AssemblyInfo.cs
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.csproj.CoreCompileInputs.cache
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp..387B0A28.Up2Date
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\refint\CafeApp.Application.dll
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\CafeApp.Application.pdb
+D:\Nirmala Project\CafeApp\CafeApp.Api\CafeApp.Application\obj\Debug\net8.0\ref\CafeApp.Application.dll

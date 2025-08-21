@@ -1,0 +1,130 @@
+[
+  {
+    "ContainingType": "CafeApp.Api.Controllers.CafesController",
+    "Method": "GetCafesAsync",
+    "RelativePath": "api/Cafes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.CafesController",
+    "Method": "DeleteCafeAsync",
+    "RelativePath": "api/Cafes",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cafeid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.CafesController",
+    "Method": "AddCafeAsync",
+    "RelativePath": "api/Cafes/Cafe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cafedto",
+        "Type": "CafeApp.Application.Commands.AddCafe.AddCafeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.CafesController",
+    "Method": "UpdateCafeAsync",
+    "RelativePath": "api/Cafes/Cafe",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cafedto",
+        "Type": "CafeApp.Application.Commands.UpdateCafe.UpdateCafeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.EmployeesController",
+    "Method": "AddEmployeeAsync",
+    "RelativePath": "api/Employees/employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeedto",
+        "Type": "CafeApp.Application.Commands.AddEmployee.AddEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.EmployeesController",
+    "Method": "UpdateEmployeeAsync",
+    "RelativePath": "api/Employees/employee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeedto",
+        "Type": "CafeApp.Application.Commands.UpdateEmployee.UpdateEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.EmployeesController",
+    "Method": "DeleteEmployeeAsync",
+    "RelativePath": "api/Employees/employee",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CafeApp.Api.Controllers.EmployeesController",
+    "Method": "GetEmployeesAsync",
+    "RelativePath": "api/Employees/employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cafeid",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

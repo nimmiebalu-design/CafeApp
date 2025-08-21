@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsAVgMcPwyY=",
+  "success": true,
+  "projectFilePath": "D:\\Nirmala Project\\CafeApp\\CafeApp.Api\\CafeApp.Domain\\CafeApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\F5\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
